@@ -104,7 +104,7 @@ class _MyPageState extends State<MyPage> {
                 ),
               ),
               subtitle: Text(
-                'Details and descriptions for ${item[index]}',
+                'สวัสดีคนไทยชาวโลก ${item[index]}',
                 style: TextStyle(
                   fontSize: 12.0,
                   color: theme.colorScheme.onSurfaceVariant.withOpacity(0.8),
